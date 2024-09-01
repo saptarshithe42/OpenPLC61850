@@ -1,0 +1,8 @@
+192.168.0.104
+IED01LogicalDevice/LLN0.RP.Measurements01 IED01LogicalDevice/LLN0$Measurements
+IED01LogicalDevice/LLN0.RP.Measurements02 IED01LogicalDevice/LLN0$Measurements
+IED01LogicalDevice/LLN0.RP.Measurements03 IED01LogicalDevice/LLN0$Measurements
+IED01LogicalDevice/LLN0.RP.Measurements04 IED01LogicalDevice/LLN0$Measurements
+IED01LogicalDevice/LLN0.RP.Measurements05 IED01LogicalDevice/LLN0$Measurements
+
+MONITOR IED01LogicalDevice/GGIO1.AnIn1.mag.f %QW2

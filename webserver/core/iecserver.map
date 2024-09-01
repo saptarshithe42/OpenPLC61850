@@ -1,0 +1,3 @@
+MONITOR IED01LogicalDevice/GGIO1.AnIn1.mag.f %QW2
+MONITOR IED01LogicalDevice/GGIO1.OpeningPressure.mag.f %QW1
+MONITOR IED01LogicalDevice/GGIO1.CoilStatus.mag.f %QX0.0
